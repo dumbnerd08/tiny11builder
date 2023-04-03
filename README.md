@@ -1,5 +1,7 @@
 # tiny11builder
 
+This fork by dumbnerd08 includes the Microsoft Edge web browser so that you don't need to download your own browser from the microsoft store which requires a microsoft account, one of the reasons why people use Tiny11.
+
 Scripts to build a trimmed-down Windows 11 image.
 
 This is a script to automate the build of a streamlined Windows 11 image, similar to tiny11.
